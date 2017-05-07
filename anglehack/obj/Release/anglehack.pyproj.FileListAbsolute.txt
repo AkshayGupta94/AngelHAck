@@ -1,9 +1,0 @@
-c:\users\aksha\documents\visual studio 2015\Projects\anglehack\anglehack\bin\Microsoft.PythonTools.WebRole.dll
-c:\users\aksha\documents\visual studio 2015\Projects\anglehack\anglehack\bin\AzureSetup.cfg
-c:\users\aksha\documents\visual studio 2015\Projects\anglehack\anglehack\bin\Microsoft.PythonTools.AzureSetup.exe
-c:\users\aksha\documents\visual studio 2015\Projects\anglehack\anglehack\bin\Microsoft.PythonTools.AzureSetup.exe.config
-c:\users\aksha\documents\visual studio 2015\Projects\anglehack\anglehack\bin\wfastcgi.py
-c:\users\aksha\documents\visual studio 2015\Projects\anglehack\anglehack\obj\Release\deployment-updated-pyvenv.cfg
-c:\users\aksha\documents\visual studio 2015\Projects\anglehack\anglehack\ptvs_virtualenv_proxy.py
-c:\users\aksha\documents\visual studio 2015\Projects\anglehack\anglehack\obj\Release\web.config
-c:\users\aksha\documents\visual studio 2015\Projects\anglehack\anglehack\obj\Release\web.debug.config
